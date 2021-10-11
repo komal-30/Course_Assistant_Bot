@@ -23,3 +23,4 @@ handle online traffic related to course enquiries in and across large educationa
 institutes.
 
 ![1](https://user-images.githubusercontent.com/52834981/136747136-4951fd41-2140-4bd2-bc80-38afbea3c892.JPG)
+![2](https://user-images.githubusercontent.com/52834981/136747630-df4af21a-3504-496b-a454-1cd82b8c60c4.JPG)
