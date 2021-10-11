@@ -1,0 +1,49 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I am a Course assistant Bot!",
+      "I am your course assitant",
+      "I can help you regarding your queries related to course selection"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "I am pretty young!",
+      "I am young and enthusiastic to help you!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Oh sorry if I annoyed you! You can quit if you do not want my services."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Yes, please type in your query !",
+      "I can assist you with course related information and faqs"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Oh, I feel sorry if my actions were wrong",
+      "I feel sorry to hear that!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Yes! I am under training and I will keep improving!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thankyou for your kind words!"
+    ]
+  }
+]
