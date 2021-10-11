@@ -21,3 +21,5 @@ interactive chatbots. The intents and entities in Dialog Flow help to determine 
 intention of the user and provide a valid response.It can prove to be a great assistant to
 handle online traffic related to course enquiries in and across large educational
 institutes.
+
+![1](https://user-images.githubusercontent.com/52834981/136747136-4951fd41-2140-4bd2-bc80-38afbea3c892.JPG)
