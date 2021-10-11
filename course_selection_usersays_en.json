@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1744ee37-dbec-46c9-bd4d-497e85540d0d",
+    "data": [
+      {
+        "text": "MastersinDataAnalytics",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cfbeb16-e8de-4663-a941-1a25c0083553",
+    "data": [
+      {
+        "text": "MastersinDeepLearning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5909de0d-b040-4ec7-9f04-85e3861b8707",
+    "data": [
+      {
+        "text": "MastersinDataScience",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8104fadf-c73e-416a-9439-81c3b046072b",
+    "data": [
+      {
+        "text": "MastersinNLP",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b469333-8cc4-4c26-896c-35e8b36a6a22",
+    "data": [
+      {
+        "text": "MastersinMachineLearning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

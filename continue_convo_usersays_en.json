@@ -1,0 +1,93 @@
+[
+  {
+    "id": "5e2aae17-1854-4216-bce3-6e75c3d753ad",
+    "data": [
+      {
+        "text": "I have some questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c8154b0-48ad-4822-ac03-5ce9b4be420a",
+    "data": [
+      {
+        "text": "I have some faqs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a0ae008-9087-4db3-89dc-ad9f084ec03e",
+    "data": [
+      {
+        "text": "I have doubts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c28f1b7-b3f1-4b26-8e32-a8561ccaced3",
+    "data": [
+      {
+        "text": "I have queries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b32d4851-48dc-4ca8-bbf3-c652907756e9",
+    "data": [
+      {
+        "text": "Yes,I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee8fc80e-1234-4158-83a9-183925c8f24d",
+    "data": [
+      {
+        "text": "Yes,I have query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57986fc4-4c86-4311-a018-59a79a1f1f08",
+    "data": [
+      {
+        "text": "Yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

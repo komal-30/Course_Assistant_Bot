@@ -1,0 +1,112 @@
+{
+  "id": "3fef4bcb-ce9e-4df6-8100-8f5db2bb09c3",
+  "name": "course_selection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9fc4af84-04de-4a20-8192-32ca1c648961",
+          "name": "cust_contact",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$cust_contact",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your contact details"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6dcf8a9e-04c6-492f-8e47-6e824b74d11b",
+          "name": "course_name",
+          "required": true,
+          "dataType": "@course_name",
+          "value": "$course_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please select the course name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b34cf9ae-f224-4741-ad55-a6715fcf6f0f",
+          "name": "cust_email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$cust_email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter a valid email address"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e0395dd0-9f3b-4937-a5fb-31092bf22ffa",
+          "name": "cust_name",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$cust_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We have sent your details to our team .Our team will contact you regarding the further process.                                  Do you have any further queries?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
